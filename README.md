@@ -39,66 +39,66 @@
 人工智能基础课  
 https://time.geekbang.org/column/62
 
-生命3.0:人工智能时代,人类的进化与重生
+生命3.0:人工智能时代,人类的进化与重生  
 https://www.amazon.cn/dp/B07FJ9ZNM2 
 
 超人类革命  
 https://www.amazon.cn/dp/B077M8NXK1
 
-超级技术：改变未来社会和商业的技术趋势
+超级技术：改变未来社会和商业的技术趋势  
 https://www.amazon.cn/dp/B0785LDQNV 
 
-人工智能的未来  
+人工智能的未来    
 https://www.amazon.cn/dp/B01CN5FNOM 
 
-终极算法:机器学习和人工智能如何重塑世界
+终极算法:机器学习和人工智能如何重塑世界   
 https://www.amazon.cn/dp/B01N2RMYKL 
 
-心智社会:从细胞到人工智能,人类思维的优雅解读
+心智社会:从细胞到人工智能,人类思维的优雅解读    
 https://www.amazon.cn/dp/B01N99AI8H 
 
-AI:人工智能的本质与未来  
+AI:人工智能的本质与未来    
 https://www.amazon.cn/dp/B072KPQBF3 
 
-人工智能 第2版  
+人工智能 第2版    
 https://www.amazon.cn/dp/B07H63PX1J 
 
-深度学习(deep learning)  
+深度学习(deep learning)    
 https://www.amazon.cn/dp/B073LWHBBY 
 
-人工智能革命：历史、当下与未来  
+人工智能革命：历史、当下与未来    
 https://www.amazon.cn/dp/B0721SPNLX 
 
-AI-未来  
+AI-未来    
 https://item.jd.com/12420820.html
 
 <br/>
 
 ## 微积分学
 
-1.	可汗学院公开课：微积分预备
+1.	可汗学院公开课：微积分预备    
 http://open.163.com/special/Khan/precalculus.html
-2.	可汗学院公开课：微分/积分
+2.	可汗学院公开课：微分/积分    
 http://open.163.com/special/Khan/differentialcalculus.html
 
 <br/>
 
 ## 线性代数
-1.	可汗学院公开课：线性代数
+1.	可汗学院公开课：线性代数    
 http://open.163.com/special/Khan/linearalgebra.html
 
 <br/>
 
 ## 概率统计
-1.	可汗学院公开课：统计
+1.	可汗学院公开课：统计    
 http://open.163.com/special/Khan/khstatistics.html
-2.	可汗学院公开课：概率
+2.	可汗学院公开课：概率    
 http://open.163.com/special/Khan/probability.html
 
 <br/>
 
 ## 机器智能
-1.	动画版机器学习，小白入门必备(入门)  
+1.	动画版机器学习，小白入门必备(入门)    
 https://study.163.com/course/courseMain.htm?courseId=1006062145#/courseDetail?tab=1
 2.	吴恩达：机器学习  
 https://www.coursera.org/learn/machine-learning
@@ -134,17 +134,17 @@ https://item.jd.com/11867803.html
 <br/>
 
 ## 深度学习
-1.	deeplearning.ai  
+1.	deeplearning.ai    
 http://deeplearning.ai 
-2.	深度学习  
+2.	深度学习    
 https://www.udacity.com/course/deep-learning--ud730 
-3.	Deep Learning With Python
+3.	Deep Learning With Python  
 https://machinelearningmastery.com/deep-learning-with-python/ 
-4.	Neural Networks for Machine Learning | Coursera
+4.	Neural Networks for Machine Learning | Coursera  
 https://www.coursera.org/learn/neural-networks 
-5.	李宏毅机器学习(2017)  
+5.	李宏毅机器学习(2017)    
 https://www.bilibili.com/video/av10590361
-6.	大牛的《深度学习》笔记
+6.	大牛的《深度学习》笔记  
 https://www.leiphone.com/news/201608/7lwVZCXnScbQb6cJ.html
 7.	深度学习基础课程  
 https://study.163.com/course/courseMain.htm?courseId=1005023019
